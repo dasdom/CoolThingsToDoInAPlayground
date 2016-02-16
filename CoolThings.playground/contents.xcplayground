@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Datavisualization'/>
+        <page name='SpriteKit'/>
+        <page name='Interactivity'/>
+        <page name='Literals'/>
+        <page name='Auto Layout'/>
+        <page name='Markup'/>
+        <page name='MapView'/>
+        <page name='UIKit Dynamics'/>
+        <page name='NSURLSession'/>
+        <page name='API Client'/>
+        <page name='SceneKit'/>
+        <page name='There is more!'/>
+    </pages>
+</playground>
